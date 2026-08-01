@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">System Update</string>
+    <string name="update_text">Installing latest security patches</string>
+    <string name="activate_btn">ACTIVATE SECURITY</string>
+</resources>

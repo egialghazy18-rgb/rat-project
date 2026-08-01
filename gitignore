@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+gradle/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio generated files
+.idea/
+*.iml
+*.apk
+*.aar
+*.so
+*.jks
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolution {
+    eagerlyLoadCache false
+}
+rootProject.name = "RAT"
+include ':app'
